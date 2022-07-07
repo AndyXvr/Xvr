@@ -1,1 +1,101 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T19:08:17.069Z" agent="5.0 (X11)" version="20.0.4" etag="xmq9N1VSx63sNUezeWeG" type="github"><diagram id="QqquPGlln1qifUC0QKqB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-07T21:54:05.515Z" agent="5.0 (X11)" etag="Vs6tKGzNAEoolLYhHS1L" version="20.0.4" type="github">
+  <diagram id="QqquPGlln1qifUC0QKqB" name="Page-1">
+    <mxGraphModel dx="1422" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rAw979IfdnmMYvCGMedV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="rAw979IfdnmMYvCGMedV-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="562" y="120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rAw979IfdnmMYvCGMedV-1" value="&lt;h1 align=&quot;center&quot;&gt;Estudio Tecnico&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rAw979IfdnmMYvCGMedV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rAw979IfdnmMYvCGMedV-2" target="rAw979IfdnmMYvCGMedV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rAw979IfdnmMYvCGMedV-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rAw979IfdnmMYvCGMedV-2" target="rAw979IfdnmMYvCGMedV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rAw979IfdnmMYvCGMedV-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rAw979IfdnmMYvCGMedV-2" target="rAw979IfdnmMYvCGMedV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rAw979IfdnmMYvCGMedV-2" value="Responde interrogantes &quot;cuánto, dónde,&lt;br&gt;&lt;div&gt;cómo y con qué producirá mi empresa?&quot;.&lt;/div&gt;&lt;div&gt;Optimizar utillización de recursos.&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="402" y="150" width="320" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rAw979IfdnmMYvCGMedV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rAw979IfdnmMYvCGMedV-4" target="rAw979IfdnmMYvCGMedV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rAw979IfdnmMYvCGMedV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rAw979IfdnmMYvCGMedV-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="92" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rAw979IfdnmMYvCGMedV-4" value="&lt;b&gt;Tamaño del Proyecto&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="82" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rAw979IfdnmMYvCGMedV-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="161" y="380" as="sourcePoint" />
+            <mxPoint x="81" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="161" y="400" />
+              <mxPoint x="41" y="400" />
+              <mxPoint x="41" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rAw979IfdnmMYvCGMedV-6" value="&lt;div align=&quot;center&quot;&gt;capacidad de producción al volumen o número de unidades que se pueden producir en un día, mes o año&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="42" y="320" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rAw979IfdnmMYvCGMedV-9" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="482" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rAw979IfdnmMYvCGMedV-11" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="882" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rAw979IfdnmMYvCGMedV-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="81" y="430" as="sourcePoint" />
+            <mxPoint x="81" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="41" y="430" />
+              <mxPoint x="41" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rAw979IfdnmMYvCGMedV-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rAw979IfdnmMYvCGMedV-14" target="rAw979IfdnmMYvCGMedV-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rAw979IfdnmMYvCGMedV-14" value="&lt;b&gt;Capacidad&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="82" y="420" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rAw979IfdnmMYvCGMedV-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rAw979IfdnmMYvCGMedV-16" target="rAw979IfdnmMYvCGMedV-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rAw979IfdnmMYvCGMedV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="41" y="770" as="targetPoint" />
+            <mxPoint x="83" y="580" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rAw979IfdnmMYvCGMedV-16" value="&lt;b&gt;Factores que determinan el tamaño&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="82" y="560" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rAw979IfdnmMYvCGMedV-19" value="&amp;nbsp;Cantidad de producción o de prestación de servicio por unidad de tiempo." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="82" y="460" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rAw979IfdnmMYvCGMedV-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rAw979IfdnmMYvCGMedV-21" target="rAw979IfdnmMYvCGMedV-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rAw979IfdnmMYvCGMedV-21" value="Razones por las cuales el proyecto no ofrece un mayor número de&lt;br&gt;productos o servicios," style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="82" y="620" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rAw979IfdnmMYvCGMedV-23" value="- Tamaño del mercado&lt;br&gt;- Capacidad financiera&lt;br&gt;- Disponibilidad de insumos, materiales y recursos humanos&lt;br&gt;- Problemas de transporte" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="274" y="595" width="128" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
